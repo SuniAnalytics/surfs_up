@@ -9,7 +9,7 @@
 
  After analysing weather data for Jun and Dec, below are three key differences identified using summary stats.
 
-1.
+1. 
 
 2.
 
