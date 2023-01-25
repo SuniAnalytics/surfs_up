@@ -20,6 +20,4 @@
 # Summary
 
 
-![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/June%20Temp%20Stats.png)
-
-![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/Dec%20Temp%20Stats.png)
+![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/June%20Temp%20Stats.png) ![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/Dec%20Temp%20Stats.png)
