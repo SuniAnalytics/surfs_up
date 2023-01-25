@@ -9,11 +9,14 @@
 
  After analysing weather data for Jun and Dec, below are three key differences identified using summary stats.
 
-1. 
+1. Low Temp:
+       Min temperatures drop by 9 degrees in Dec compared to June (Low of 56 degrees vs 64 in June)
 
-2.
+2. High Temp:
+      Max temperature in Dec is very close to June (83 in Dec vs 85 in Jun)
 
-3.
+3. Mean and quartiles
+       Temperature ranges in jun and dec are in range of 3-4 degrees in mean and quartiles.
 
 ![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/ScreenShot1_June%20Temp.png) ![](https://github.com/SuniAnalytics/surfs_up/blob/main/Resources/ScreenShot2_Dec%20Temp.png)
 
