@@ -1,7 +1,13 @@
 # Overview
 
+  Goal of the project is to provide weather related insights to W.Avy to take informed decisions before opening the surf shop in Oahu.
+  Analyzing weather trends in Jun and Dec will help W.Avy understand if Surf & ice cream business can sustain year-around. 
+  
+  To perform the analysis, utilized Hawaii weather data set and Python, Pandas and SQL Alchemy skills. 
 
 # Results
+
+ After analysing weather data for Jun and Dec, below are three key differences identified using summary stats.
 
 1.
 
